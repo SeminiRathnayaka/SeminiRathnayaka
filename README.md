@@ -22,7 +22,7 @@ ICT Student | Learning AI & Programming | Robotics | IOT
 
 ---
 
-## 🎮 
+ 
 
 ![snake gif](https://github.com/SeminiRathnayaka/SeminiRathnayaka/blob/output/github-contribution-grid-snake-dark.svg)
 

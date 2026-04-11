@@ -32,6 +32,6 @@
 ## 🎨 Design Tools
 
 <img src="https://skillicons.dev/icons?i=figma,androidstudio" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canva_Logo.svg" width="50"/>
 
 </div>

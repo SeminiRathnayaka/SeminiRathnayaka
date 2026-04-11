@@ -31,7 +31,10 @@
 
 ## 🎨 Design Tools
 
+## 🎨 Design Tools
+
 <img src="https://skillicons.dev/icons?i=figma,androidstudio" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canva_Logo.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50"/>
+
 
 </div>

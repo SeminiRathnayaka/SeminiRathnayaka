@@ -1,6 +1,6 @@
 ## Hi there 👋 I'M SEMINI RATHNAYAKA 😎✌️
-Health ICT Student | Learning AI & Programming | Robotics | IOT
- 
+ICT Student | Learning AI & Programming | Robotics | IOT
+
 ---
 
 ## 🌐 Connect with me
@@ -11,17 +11,18 @@ Health ICT Student | Learning AI & Programming | Robotics | IOT
 ---
 
 ## 💻 Languages & Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=SeminiRathnayaka&show_icons=true&theme=radical)
+## 🎮 Mini Game
 
----
+> 🚀 [Click here to play the Aircraft Game!](https://SeminiRathnayaka.github.io/aircraft-game)
 
-## 🔥 Streak
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SeminiRathnayaka&theme=radical)

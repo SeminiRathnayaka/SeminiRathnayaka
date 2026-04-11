@@ -22,7 +22,7 @@ ICT Student | Learning AI & Programming | Robotics | IOT
 
 ---
 
-## 🎮 Mini Game
+## 🎮 
 
-> 🚀 [Click here to play the Aircraft Game!](https://SeminiRathnayaka.github.io/aircraft-game)
+![snake gif](https://github.com/SeminiRathnayaka/SeminiRathnayaka/blob/output/github-contribution-grid-snake-dark.svg)
 

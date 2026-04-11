@@ -1,6 +1,17 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFD4&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Semini+Rathnayaka+👋;Health+ICT+Student;Learning+AI+%26+Programming;Robotics+%7C+IOT+%7C+Web+Dev)](https://git.io/typing-svg)
+# Hi there 👋 I'M SEMINI RATHNAYAKA 😎✌️
+
+### ICT Student | Learning AI & Programming | Robotics | IOT | Design 
+
+---
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SeminiRathnayaka/SeminiRathnayaka/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SeminiRathnayaka/SeminiRathnayaka/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/SeminiRathnayaka/SeminiRathnayaka/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 ---
 
@@ -14,17 +25,13 @@
 
 ## 💻 Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=python,java,js,react,c" />
+<img src="https://skillicons.dev/icons?i=python,java,c" />
 
 ---
 
-## 🐍 My Contributions
+## 🎨 Design Tools
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SeminiRathnayaka/SeminiRathnayaka/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SeminiRathnayaka/SeminiRathnayaka/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/SeminiRathnayaka/SeminiRathnayaka/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+<img src="https://skillicons.dev/icons?i=figma,androidstudio" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 
 </div>
-

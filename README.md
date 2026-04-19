@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋 I'M SEMINI RATHNAYAKA 😎✌️
+# Hello World !!  I'M SEMINI RATHNAYAKA 😎👋
 
 ### ICT Student | Learning AI & Programming | Robotics | IOT | Design 
 

@@ -18,22 +18,22 @@ because I've seen what happens when technology doesn't reach the people who need
 Every project I build has a real purpose behind it.
 And I'm just getting started.
 
-I believe technology should serve everyone — not just those who are already comfortable.
+I believe technology should serve everyone.not just those who are already comfortable.
 
 ---
 
 ##  What Drives Me
 
 > *"I build technology for the people normal technology forgets."*
-> — N.S. Yashodya Rathnayaka
+>  N.S. Yashodya Rathnayaka
 
-Every project I build has a real human behind it. For everyone for us for you!
+Every project I build has a real human behind it. For everyone , for us , for you!
 
 ---
 
 ##  Featured Projects
 
-### 🧠 ORAYAN AI — Medical Report Explainer
+### 🧠 ORAYAN AI -> Medical Report Explainer
 *Making healthcare understandable for every Sri Lankan*
 
 - Explains complex medical reports in **Sinhala and simple English**
@@ -43,7 +43,7 @@ Every project I build has a real human behind it. For everyone for us for you!
 
 ---
 
-### 🤟 SPEAK SILENCE — Hospital Gesture Translator
+### 🤟 SPEAK SILENCE —> Hospital Gesture Translator
 *"They are speaking. You just couldn't hear them — until now."*
 
 - Detects hand gestures of **deaf and mute patients** in hospitals
@@ -53,7 +53,7 @@ Every project I build has a real human behind it. For everyone for us for you!
 
 ---
 
-### 🎮 Project 2.0 — Therapy Through Play
+### 🎮 Project 2.0 —> Therapy Through Play
 *Turning physiotherapy into a game for disabled children*
 
 - Hand tracker + puzzle game using **OpenCV & MediaPipe**
@@ -63,7 +63,7 @@ Every project I build has a real human behind it. For everyone for us for you!
 
 ---
 
-### 🤖 Baymax 1.0 — Personal Health Assistant
+### 🤖 Baymax 1.0 —> Personal Health Assistant
 *Your private, offline health companion*
 
 - Personal voice & chat health assistant — **runs fully locally**

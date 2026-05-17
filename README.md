@@ -73,7 +73,7 @@ Every project I build has a real human behind it. For everyone for us for you!
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=SeminiRathnayaka&show_icons=true&theme=dark&title_color=D4A017&icon_color=D4A017&text_color=ffffff&bg_color=0d1117&border_color=D4A017&cache_seconds=1800" alt="Semini's GitHub Stats" />
@@ -85,7 +85,7 @@ Every project I build has a real human behind it. For everyone for us for you!
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 **Languages**
 

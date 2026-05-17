@@ -76,11 +76,17 @@ Every project I build has a real human behind it. For everyone for us for you!
 ##  GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SeminiRathnayaka&show_icons=true&theme=dark&title_color=D4A017&icon_color=D4A017&text_color=ffffff&bg_color=0d1117&border_color=D4A017&cache_seconds=1800" alt="Semini's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=SeminiRathnayaka&show_icons=true&theme=dark&title_color=D4A017&icon_color=D4A017&text_color=ffffff&bg_color=0d1117&border_color=D4A017&rank_icon=github&hide_border=false" alt="Semini's GitHub Stats" />
+
 <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeminiRathnayaka&layout=compact&theme=dark&title_color=D4A017&text_color=ffffff&bg_color=0d1117&border_color=D4A017&cache_seconds=1800" alt="Top Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeminiRathnayaka&layout=compact&theme=dark&title_color=D4A017&text_color=ffffff&bg_color=0d1117&border_color=D4A017&langs_count=6" alt="Top Languages" />
+
 <br/><br/>
+
 <img src="https://streak-stats.demolab.com/?user=SeminiRathnayaka&theme=dark&ring=D4A017&fire=D4A017&currStreakLabel=D4A017&sideLabels=ffffff&background=0d1117&border=D4A017" alt="GitHub Streak" />
+
 </div>
 
 ---

@@ -7,28 +7,33 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-I'm a first-year BHIT student at Gampaha Wikramarachchi University of Indigenous Medicine, Sri Lanka — and I'm building AI that actually helps the people medicine often forgets.
+I'm N.Semini Yashodya Rathnayaka. A healthcare AI builder from Sri Lanka , currently in my first year of studying Health Information 
+& Technology.
 
-My goal is to become a **Robotics AI Engineer** and create specialized AI for the healthcare field. I work at the intersection of computer vision, speech, and human-centered design — building tools for elders who can't read reports, children who can't do therapy the normal way, and patients who can't speak.
+I build at the intersection of AI, computer vision, and human-centered design. Not because it's trending but 
+because I've seen what happens when technology doesn't reach the people who need it most.
+
+Every project I build has a real purpose behind it.
+And I'm just getting started.
 
 I believe technology should serve everyone — not just those who are already comfortable.
 
 ---
 
-## 💡 What Drives Me
+##  What Drives Me
 
 > *"I build technology for the people normal technology forgets."*
 > — N.S. Yashodya Rathnayaka
 
-Every project I build has a real human behind it. A Sri Lankan grandmother confused by her own medical report. A deaf patient in a hospital who can't communicate with a nurse. A child with paralysis who can't do physiotherapy because it isn't fun. These are not edge cases — they are people. And they deserve good technology too.
+Every project I build has a real human behind it. For everyone for us for you!
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🧠 Orayan AI — Medical Report Explainer
+### 🧠 ORAYAN AI — Medical Report Explainer
 *Making healthcare understandable for every Sri Lankan*
 
 - Explains complex medical reports in **Sinhala and simple English**
@@ -110,7 +115,7 @@ Every project I build has a real human behind it. A Sri Lankan grandmother confu
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <div align="center">
 
@@ -120,7 +125,7 @@ Every project I build has a real human behind it. A Sri Lankan grandmother confu
 
 ---
 
-*I'm always open to collaborating on projects that create real-world impact — especially in healthcare, accessibility, and AI.*
+*I'm always open to collaborating on projects that create real-world impact. Especially in healthcare, accessibility, and AI.*
 
 *Let's build something that matters.*
 

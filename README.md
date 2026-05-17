@@ -16,11 +16,7 @@
 | 🤖 Baymax-1.0 | Personal voice & chat health assistant running locally | 🔄 In Progress - ✅ VOICE DONE
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SeminiRathnayaka/SeminiRathnayaka/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SeminiRathnayaka/SeminiRathnayaka/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/SeminiRathnayaka/SeminiRathnayaka/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+![Semini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeminiRathnayaka&show_icons=true&theme=dark&title_color=D4A017&icon_color=D4A017&text_color=ffffff&bg_color=0d1117&border_color=D4A017)
 
 ---
 

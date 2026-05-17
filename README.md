@@ -83,7 +83,6 @@ Every project I build has a real human behind it. For everyone for us for you!
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeminiRathnayaka&bg_color=0d1117&color=D4A017&line=D4A017&point=ffffff&area=true&hide_border=false" alt="Contribution Graph" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SeminiRathnayaka&bg_color=0d1117&color=D4A017&line=D4A017&point=ffffff&area=true&hide_border=false" alt="Contribution Graph" />
 
 </div>
 

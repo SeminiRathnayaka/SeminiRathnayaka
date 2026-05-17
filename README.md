@@ -15,8 +15,9 @@
 | 🎮 Project 2.0 | Hand tracker + therapy game for disabled children using OpenCV & MediaPipe | 🔄 In Progress |
 | 🤖 Baymax-1.0 | Personal voice & chat health assistant running locally | 🔄 In Progress - ✅ VOICE DONE
 
+![Stats](https://github-readme-stats.vercel.app/api?username=SeminiRathnayaka&show_icons=true&theme=dark&title_color=D4A017&icon_color=D4A017&text_color=ffffff&bg_color=0d1117&border_color=D4A017)
 
-![Semini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeminiRathnayaka&show_icons=true&theme=dark&title_color=D4A017&icon_color=D4A017&text_color=ffffff&bg_color=0d1117&border_color=D4A017)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeminiRathnayaka&layout=compact&theme=dark&title_color=D4A017&text_color=ffffff&bg_color=0d1117&border_color=D4A017)
 
 ---
 

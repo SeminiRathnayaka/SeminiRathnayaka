@@ -75,11 +75,13 @@ Every project I build has a real human behind it. For everyone for us for you!
 
 ##  GitHub Stats
 
-##  GitHub Stats
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=SeminiRathnayaka&theme=dark&ring=D4A017&fire=D4A017&currStreakLabel=D4A017&sideLabels=ffffff&background=0d1117&border=D4A017" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SeminiRathnayaka&bg_color=0d1117&color=D4A017&line=D4A017&point=ffffff&area=true&hide_border=false" alt="Contribution Graph" />
 
 </div>
 
@@ -129,5 +131,8 @@ Every project I build has a real human behind it. For everyone for us for you!
 
 </div>
 
-<!-- FOOTER WAVE -->
+<div align="center">
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=D4A017&height=120&section=footer)
+
+</div>

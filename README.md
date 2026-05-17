@@ -51,4 +51,10 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 
+
+---
+> *"I build technology for the people normal technology forgets."*
+> — N.S.Yashodya Rathnayaka
+
+
 </div>

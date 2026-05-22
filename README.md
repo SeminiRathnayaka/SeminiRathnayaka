@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER — generate this at https://capsule-render.vercel.app -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=D4A017&height=200&section=header&text=Hi,%20I'm%20Semini%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Healthcare%20AI%20Builder%20%7C%20BHIT%20Student%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlignY=60&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:D4A017,100:1a1a2e&height=280&section=header&text=Hi,%20I'm%20Semini%20👋&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Healthcare%20AI%20Builder%20%7C%20BHIT%20Student%20%7C%20Sri%20Lanka%20🇱🇰&descAlignY=58&descSize=18&stroke=D4A017&strokeWidth=2)
 
 </div>
 

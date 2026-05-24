@@ -33,7 +33,7 @@ Every project I build has a real human behind it. For everyone , for us , for yo
 
 ##  Featured Projects
 
-### 🧠 ORAYAN AI -> Medical Report Explainer
+### 🧠 ORAYAN AI --> Medical Report Explainer
 *Making healthcare understandable for every Sri Lankan*
 
 - Explains complex medical reports in **Sinhala and simple English**

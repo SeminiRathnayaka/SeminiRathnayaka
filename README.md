@@ -116,6 +116,8 @@ Every project I build has a real human behind it. For everyone , for us , for yo
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=SeminiRathnayaka&color=D4A017&style=flat-square)
+
 ##  Connect with Me
 
 <div align="center">

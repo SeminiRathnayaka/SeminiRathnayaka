@@ -32,27 +32,33 @@ I believe technology should serve everyone. not just those who are already comfo
 </div>
 
 ---
+##  Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**AI / ML / Vision**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Tools & Platforms**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+**Design**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 
-
-## Tech Stack
- 
-<img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pandas,figma" width="700"/>
-</div>
----
- 
-<div align="center">
-## Languages and Tools
- 
-<img src="https://skillicons.dev/icons?i=python,java,c,dart,kotlin,js,ts,react,flutter,nodejs,flask,html,css,mongodb,mysql,postgres,sqlite,git,docker,arduino" width="700"/>
-</div>
----
- 
-
-
----
-
-<div align="center">
 
 ## Analytics
 

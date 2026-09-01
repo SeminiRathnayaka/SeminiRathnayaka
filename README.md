@@ -104,7 +104,6 @@ Curiosity and consistency fuel me every single day.
 </table>
 
 <div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=D4A017&height=120&section=footer)
-
+![footer](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer)
+ 
 </div>

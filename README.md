@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/seminirathnayaka/seminirathnayaka/main/assets/header_1011.jpeg" alt="header" width="700"/>
+<img src="https://raw.githubusercontent.com/SeminiRathnayaka/SeminiRathnayaka/main/header%201011.jpeg" alt="header" width="700"/>
 </div>
 
 <h1 align="center">HOLA! 🌿 World!!</h1>

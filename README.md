@@ -6,15 +6,32 @@
 
 </div>
 
-<h3 align="center">Healthcare AI Builder • Developer • Future Robotics AI Engineer</h3>
+<h3 align="center">Healthcare AI Builder • Developer </h3>
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-I'm a developer from **Sri Lanka** passionate about building technology that connects **AI, healthcare, and human interaction**.
+I'm N.Semini Yashodya Rathnayaka. A healthcare AI builder from Sri Lanka , currently in my first year of studying Health Information & Technology.
 
-I'm especially interested in:
+I build at the intersection of AI, computer vision, and human-centered design. Not because it's trending but 
+because I've seen what happens when technology doesn't reach the people who need it most.
+
+Every project I build has a real purpose behind it.
+And I'm just getting started.
+
+I believe technology should serve everyone. not just those who are already comfortable.
+
+
+##  What Drives Me
+
+> *"I build technology for the people normal technology forgets."*
+>  N.S. Yashodya Rathnayaka
+
+Every project I build has a real human behind it. For everyone , for us , for you!
+
+
+ I'm especially interested in:
 
 * 🤖 Artificial Intelligence & Machine Learning
 * 🏥 Healthcare Technology
@@ -23,13 +40,6 @@ I'm especially interested in:
 * 🦾 Robotics & Intelligent Systems
 * 📱 Mobile & Web Applications
 
-> **Curiosity and consistency fuel me every single day.**
-
-I'm currently learning, experimenting, and building projects that turn ideas into real working systems.
-
----
-
-## 🚀 What I'm Building
 
 ### 🤖 AI & Healthcare
 I'm interested in creating AI systems that are not only intelligent, but also **useful, accessible, and human-friendly**.
@@ -40,7 +50,6 @@ Exploring ways computers can understand human movement, gestures, and visual inf
 ### 🦾 Robotics AI
 My long-term goal is to work at the intersection of **AI, robotics, and human interaction**.
 
----
 
 ## 🛠️ Languages & Technologies
 
@@ -61,24 +70,6 @@ My long-term goal is to work at the intersection of **AI, robotics, and human in
 </div>
 
 ---
-
-## 🌱 Currently Learning
-
-<div align="center">
-
-```text
-Artificial Intelligence
-        ↓
-Computer Vision
-        ↓
-Human-Centered Technology
-        ↓
-Healthcare Applications
-        ↓
-Robotics & Intelligent Systems
-```
-
-</div>
 
 I'm constantly experimenting with new technologies and turning what I learn into projects.
 

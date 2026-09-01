@@ -1,12 +1,18 @@
 <div align="center">
+
 <img src="https://raw.githubusercontent.com/SeminiRathnayaka/SeminiRathnayaka/main/header%201011.jpeg" alt="header" width="700"/>
+
+<h1>HOLA! 🌿 World!!</h1>
+<h2>I'm Semini</h2>
+<h3>AI Builder • Developer • Health Informatics Student</h3>
+
 </div>
 
-<h1 align="center">HOLA! 🌿 World!!</h1>
-<h2 align="center">I'm Semini</h2>
-<h3 align="center">AI Builder • Developer • Health Informatics Student</h3>
-
 ---
+
+<div align="center">
+<table width="700">
+<tr><td>
 
 ## About Me
 
@@ -15,42 +21,50 @@ I'm especially interested in Artificial Intelligence, Computer Vision, Robotics,
 I'm currently building real projects — turning ideas into working systems that can actually help people.
 Curiosity and consistency fuel me every single day.
 
+</td></tr>
+</table>
+</div>
+
 ---
+
+<div align="center">
 
 ## Tech Stack
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pandas,figma" />
+<img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pandas,figma" width="700"/>
+
 </div>
 
 ---
+
+<div align="center">
 
 ## Languages and Tools
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,dart,kotlin,js,ts,react,flutter,nodejs,flask,html,css,mongodb,mysql,postgres,sqlite,git,docker,arduino" />
+<img src="https://skillicons.dev/icons?i=python,java,c,dart,kotlin,js,ts,react,flutter,nodejs,flask,html,css,mongodb,mysql,postgres,sqlite,git,docker,arduino" width="700"/>
+
 </div>
 
 ---
 
-## Analytics
-
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
+## Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=seminirathnayaka&show_icons=true&theme=transparent&hide_border=true&title_color=D4A017&icon_color=D4A017&text_color=ffffff" alt="GitHub Stats" width="100%"/>
+<table width="700">
+<tr>
+<td align="center" width="350">
+
+<img src="https://github-readme-stats.vercel.app/api?username=seminirathnayaka&show_icons=true&theme=transparent&hide_border=true&title_color=D4A017&icon_color=D4A017&text_color=ffffff" alt="GitHub Stats" width="340"/>
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=seminirathnayaka&theme=transparent&hide_border=true&ring=D4A017&fire=D4A017&currStreakLabel=D4A017" alt="GitHub Streak" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=seminirathnayaka&theme=transparent&hide_border=true&ring=D4A017&fire=D4A017&currStreakLabel=D4A017" alt="GitHub Streak" width="340"/>
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="350">
 
 **Most Used Languages**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seminirathnayaka&layout=compact&theme=transparent&hide_border=true&title_color=D4A017&text_color=ffffff" alt="Top Languages" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seminirathnayaka&layout=compact&theme=transparent&hide_border=true&title_color=D4A017&text_color=ffffff" alt="Top Languages" width="340"/>
 
 </td>
 </tr>
@@ -60,19 +74,20 @@ Curiosity and consistency fuel me every single day.
 
 ---
 
+<div align="center">
+
 ## Contribution Snake
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/seminirathnayaka/seminirathnayaka/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/seminirathnayaka/seminirathnayaka/output/github-contribution-grid-snake.svg" alt="Snake animation" width="700"/>
+
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="55%" valign="middle">
-
 <div align="center">
+<table width="700">
+<tr>
+<td width="385" valign="middle" align="center">
 
 <a href="https://www.instagram.com/nsy_rathnayaka_/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -84,26 +99,22 @@ Curiosity and consistency fuel me every single day.
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-</div>
-
-<h3 align="center">Let's build something amazing 🚀</h3>
+<h3>Let's build something amazing 🚀</h3>
 
 </td>
-<td width="45%" valign="middle">
-
-<div align="center">
+<td width="315" valign="middle" align="center">
 
 ### 👀 Stalking me?
 **Come on, text me!**
 📩 seminiyashodya61@gmail.com
 
-</div>
-
 </td>
 </tr>
 </table>
+</div>
 
 <div align="center">
-![footer](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer)
- 
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer&width=700)
+
 </div>

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/SeminiRathnayaka/SeminiRathnayaka/main/header%201011.jpeg" alt="header" width="700"/>
 
-<h1>HOLA! 🌿 World!!</h1>
+<h1>HOLA World!!</h1>
 <h2>I'm Semini</h2>
 <h3>AI Builder • Developer • Health Informatics Student</h3>
 
@@ -16,10 +16,18 @@
 
 ## About Me
 
-I'm a developer from **Sri Lanka** passionate about building technology that connects **AI, healthcare, and human interaction**.
-I'm especially interested in Artificial Intelligence, Computer Vision, Robotics, and Human-Centered Health Tech.
-I'm currently building real projects — turning ideas into working systems that can actually help people.
-Curiosity and consistency fuel me every single day.
+
+I'm N.Semini Yashodya Rathnayaka. A healthcare AI builder from Sri Lanka , currently in my first year of studying Health Information & Technology.
+
+I build at the intersection of AI, computer vision, and human-centered design. Not because it's trending but 
+because I've seen what happens when technology doesn't reach the people who need it most.
+
+Every project I build has a real purpose behind it.
+And I'm just getting started.
+
+I believe technology should serve everyone. not just those who are already comfortable.
+
+
 
 </td></tr>
 </table>

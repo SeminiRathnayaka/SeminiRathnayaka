@@ -2,8 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/SeminiRathnayaka/SeminiRathnayaka/main/header%201011.jpeg" alt="header" width="700"/>
 
-<h1>HOLA! 🌿 World!!</h1>
-<h2>I'm Semini</h2>
+<h1>HOLA World!!</h1>
+
 <h3>AI Builder • Developer • Health Informatics Student</h3>
 
 </div>
@@ -33,7 +33,7 @@ I believe technology should serve everyone. not just those who are already comfo
 
 ---
 
-<div align="center">
+
 
 ## Tech Stack
  
@@ -48,7 +48,7 @@ I believe technology should serve everyone. not just those who are already comfo
 </div>
 ---
  
-<div align="center">
+
 
 ---
 
@@ -72,7 +72,7 @@ I believe technology should serve everyone. not just those who are already comfo
 
 ---
 
-<div align="center">
+
 
 ## Contribution Snake
 
@@ -97,7 +97,7 @@ I believe technology should serve everyone. not just those who are already comfo
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-<h3>Let's build something amazing 🚀</h3>
+<h3>I'm always open to collaborating on projects that create real-world impact. Especially in healthcare, accessibility, and AI.Let's build something amazing 🚀</h3>
 
 </td>
 <td width="315" valign="middle" align="center">

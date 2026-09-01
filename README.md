@@ -1,122 +1,131 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SeminiRathnayaka/SeminiRathnayaka/main/header%201011.jpeg" alt="header" width="700"/>
+<img src="https://raw.githubusercontent.com/SeminiRathnayaka/SeminiRathnayaka/main/header%201011.jpeg" alt="Semini Rathnayaka" width="700"/>
 
-<h1>HOLA World!!</h1>
+<br>
 
-<h3>AI Builder • Developer • Health Informatics Student</h3>
+# HOLA, WORLD!! 👋
 
-</div>
+### AI Builder • Developer • Health Informatics Student
 
----
-
-<div align="center">
-<table width="700">
-<tr><td>
-
-## About Me
-
-I'm N.Semini Yashodya Rathnayaka. A healthcare AI builder from Sri Lanka , currently in my first year of studying Health Information & Technology.
-
-I build at the intersection of AI, computer vision, and human-centered design. Not because it's trending but 
-because I've seen what happens when technology doesn't reach the people who need it most.
-
-Every project I build has a real purpose behind it.
-And I'm just getting started.
-
-I believe technology should serve everyone. not just those who are already comfortable.
-
-
-</td></tr>
-</table>
-</div>
-
----
-##  Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**AI / ML / Vision**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Tools & Platforms**
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-**Design**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-
-
-## Analytics
-
-<table width="700">
-<tr>
-<td align="center" width="700">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SeminiRathnayaka&show_icons=true&theme=transparent&hide_border=true&title_color=D4A017&icon_color=D4A017&text_color=ffffff" alt="GitHub Stats" width="500"/>
-<br/>
-<img src="https://streak-stats.demolab.com?user=SeminiRathnayaka&theme=transparent&hide_border=true&ring=D4A017&fire=D4A017&currStreakLabel=D4A017" alt="GitHub Streak" width="500"/>
-
-</td>
-</tr>
-</table>
-
-</div>
+<br>
 
 ---
 
+## ✦ ABOUT ME
 
+I'm **N. Semini Yashodya Rathnayaka**, a healthcare AI builder from Sri Lanka and a student passionate about creating technology with a purpose.
 
+I build at the intersection of **Artificial Intelligence, Computer Vision, Software Development, and Human-Centered Design**.
 
+### **I don't build technology just because I can.**
 
-<img src="https://raw.githubusercontent.com/seminirathnayaka/seminirathnayaka/output/github-contribution-grid-snake.svg" alt="Snake animation" width="700"/>
+### **I build it because it can make a difference.**
 
-</div>
+I'm especially interested in creating technology that is:
+
+**♧ Accessible** · **♧ Human-centered** · **♧ Intelligent** · **♧ Practical**
+
+My goal is to explore how AI can solve real-world problems and make technology easier to understand and use — especially in healthcare.
+
+**Curiosity and consistency fuel me every single day.**
+
+And I'm just getting started. 🚀
 
 ---
 
-<div align="center">
-<table width="700">
-<tr>
-<td width="385" valign="middle" align="center">
+## 💻 PROGRAMMING
+
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" height="35"/>
+
+<br><br>
+
+## 🌐 WEB & APP DEVELOPMENT
+
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" height="35"/>
+
+<br><br>
+
+## 🤖 AI, COMPUTER VISION & DATA
+
+<img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white" height="35"/>
+
+<br><br>
+
+## 🗄️ DATABASES & TOOLS
+
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white" height="35"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white" height="35"/>
+
+---
+
+## 📊 GITHUB ANALYTICS
+
+<img src="https://github-readme-stats.vercel.app/api?username=SeminiRathnayaka&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=000000&ring_color=000000" alt="GitHub Stats" width="500"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=SeminiRathnayaka&hide_border=true&background=FFFFFF&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&sideNums=000000&currStreakNum=000000" alt="GitHub Streak" width="500"/>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<img src="https://raw.githubusercontent.com/SeminiRathnayaka/SeminiRathnayaka/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="700"/>
+
+---
+
+## 🌐 CONNECT WITH ME
 
 <a href="https://www.instagram.com/nsy_rathnayaka_/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
 </a>
+
 <a href="https://www.linkedin.com/in/semini-rathnayaka-07a72b393/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
 </a>
+
 <a href="mailto:seminiyashodya61@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
 </a>
 
-<h3>I'm always open to collaborating on projects that create real-world impact. Let's build something amazing 🚀</h3>
+<br><br>
 
-</td>
-<td width="315" valign="middle" align="center">
+### **I'm always open to collaborating on projects that create real-world impact.**
 
-<img src="https://raw.githubusercontent.com/SeminiRathnayaka/SeminiRathnayaka/main/stalk.jpg.jpeg" alt="stalking me" width="280"/>
+### **Let's build something amazing. 🚀**
 
-</td>
-</tr>
-</table>
-</div>
+<br>
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/SeminiRathnayaka/SeminiRathnayaka/main/stalk.jpg.jpeg" alt="Stalking me" width="280"/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer&width=700)
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&width=700" width="700"/>
 
 </div>

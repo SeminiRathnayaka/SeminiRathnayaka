@@ -53,18 +53,11 @@ Curiosity and consistency fuel me every single day.
 
 <table width="700">
 <tr>
-<td align="center" width="350">
+<td align="center" width="700">
 
-<img src="https://github-readme-stats.vercel.app/api?username=seminirathnayaka&show_icons=true&theme=transparent&hide_border=true&title_color=D4A017&icon_color=D4A017&text_color=ffffff" alt="GitHub Stats" width="340"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SeminiRathnayaka&show_icons=true&theme=transparent&hide_border=true&title_color=D4A017&icon_color=D4A017&text_color=ffffff" alt="GitHub Stats" width="500"/>
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=seminirathnayaka&theme=transparent&hide_border=true&ring=D4A017&fire=D4A017&currStreakLabel=D4A017" alt="GitHub Streak" width="340"/>
-
-</td>
-<td align="center" width="350">
-
-**Most Used Languages**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seminirathnayaka&layout=compact&theme=transparent&hide_border=true&title_color=D4A017&text_color=ffffff" alt="Top Languages" width="340"/>
+<img src="https://streak-stats.demolab.com?user=SeminiRathnayaka&theme=transparent&hide_border=true&ring=D4A017&fire=D4A017&currStreakLabel=D4A017" alt="GitHub Streak" width="500"/>
 
 </td>
 </tr>

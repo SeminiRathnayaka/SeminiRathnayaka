@@ -36,20 +36,19 @@ I believe technology should serve everyone. not just those who are already comfo
 <div align="center">
 
 ## Tech Stack
-
+ 
 <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pandas,figma" width="700"/>
-
 </div>
-
 ---
-
+ 
 <div align="center">
-
 ## Languages and Tools
-
+ 
 <img src="https://skillicons.dev/icons?i=python,java,c,dart,kotlin,js,ts,react,flutter,nodejs,flask,html,css,mongodb,mysql,postgres,sqlite,git,docker,arduino" width="700"/>
-
 </div>
+---
+ 
+<div align="center">
 
 ---
 

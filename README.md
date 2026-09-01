@@ -4,7 +4,7 @@
 
 <br>
 
-# HOLA, WORLD!! 👋
+# HOLA  WORLD!! 👋
 
 ### AI Builder • Developer • Health Informatics Student
 
@@ -15,18 +15,16 @@
 ## ✦ ABOUT ME
 
 I'm **N. Semini Yashodya Rathnayaka**, a healthcare AI builder from Sri Lanka and a student passionate about creating technology with a purpose.
-
 I build at the intersection of **Artificial Intelligence, Computer Vision, Software Development, and Human-Centered Design**.
 
 ### **I don't build technology just because I can.**
-
 ### **I build it because it can make a difference.**
 
 I'm especially interested in creating technology that is:
 
 **♧ Accessible** · **♧ Human-centered** · **♧ Intelligent** · **♧ Practical**
 
-My goal is to explore how AI can solve real-world problems and make technology easier to understand and use — especially in healthcare.
+My goal is to explore how AI can solve real-world problems and make technology easier to understand and use - especially in healthcare.
 
 **Curiosity and consistency fuel me every single day.**
 
@@ -34,7 +32,7 @@ And I'm just getting started. 🚀
 
 ---
 
-## 💻 PROGRAMMING
+## PROGRAMMING
 
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" height="35"/>
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" height="35"/>
@@ -46,7 +44,7 @@ And I'm just getting started. 🚀
 
 <br><br>
 
-## 🌐 WEB & APP DEVELOPMENT
+## WEB & APP DEVELOPMENT
 
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" height="35"/>
 <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white" height="35"/>
@@ -57,7 +55,7 @@ And I'm just getting started. 🚀
 
 <br><br>
 
-## 🤖 AI, COMPUTER VISION & DATA
+## AI, COMPUTER VISION & DATA
 
 <img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=white" height="35"/>
 <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white" height="35"/>
@@ -65,7 +63,7 @@ And I'm just getting started. 🚀
 
 <br><br>
 
-## 🗄️ DATABASES & TOOLS
+## DATABASES & TOOLS
 
 <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" height="35"/>
 <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" height="35"/>
@@ -84,7 +82,7 @@ And I'm just getting started. 🚀
 
 ---
 
-## 📊 GITHUB ANALYTICS
+## GITHUB ANALYTICS
 
 <img src="https://github-readme-stats.vercel.app/api?username=SeminiRathnayaka&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=000000&ring_color=000000" alt="GitHub Stats" width="500"/>
 
@@ -94,13 +92,13 @@ And I'm just getting started. 🚀
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+## CONTRIBUTION SNAKE
 
 <img src="https://raw.githubusercontent.com/SeminiRathnayaka/SeminiRathnayaka/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="700"/>
 
 ---
 
-## 🌐 CONNECT WITH ME
+## CONNECT WITH ME
 
 <a href="https://www.instagram.com/nsy_rathnayaka_/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>

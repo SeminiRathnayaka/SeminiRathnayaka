@@ -8,20 +8,6 @@
 
 ## AI Builder • Developer • Health Informatics Student
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=SeminiRathnayaka&label=PROFILE%20VIEWS&color=000000&style=for-the-badge" alt="Profile Views"/>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/SeminiRathnayaka/SeminiRathnayaka/main/stalk.jpg.jpeg" alt="Semini Rathnayaka" width="220"/>
-
-</div>
-
----
-
-<div align="center">
-
 # ✦ ABOUT ME
 
 </div>
@@ -170,11 +156,24 @@ And honestly...
 
 <div align="center">
 
-# 🐍 WATCH MY CONTRIBUTIONS MOVE
 
 <br>
 
 <img src="https://raw.githubusercontent.com/SeminiRathnayaka/SeminiRathnayaka/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="850"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=SeminiRathnayaka&label=PROFILE%20VIEWS&color=000000&style=for-the-badge" alt="Profile Views"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/SeminiRathnayaka/SeminiRathnayaka/main/stalk.jpg.jpeg" alt="Semini Rathnayaka" width="220"/>
 
 </div>
 

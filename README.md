@@ -92,8 +92,6 @@ And I'm just getting started. 🚀
 
 ---
 
-## CONTRIBUTION SNAKE
-
 <img src="https://raw.githubusercontent.com/SeminiRathnayaka/SeminiRathnayaka/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="700"/>
 
 ---
@@ -114,7 +112,7 @@ And I'm just getting started. 🚀
 
 <br><br>
 
-### **I'm always open to collaborating on projects that create real-world impact.**
+### **I'm always open to collaborating on projects that create real world impact.**
 
 ### **Let's build something amazing. 🚀**
 

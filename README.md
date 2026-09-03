@@ -23,7 +23,6 @@ And I'm just getting started.
 
 I believe technology should serve everyone.not just those who are already comfortable.
 
----
 
 ##  What Drives Me
 
@@ -32,7 +31,6 @@ I believe technology should serve everyone.not just those who are already comfor
 
 Every project I build has a real human behind it. For everyone , for us , for you!
 
----
 
 My goal is to explore how **Artificial Intelligence can solve real-world problems**, make technology easier to understand, and create meaningful solutions — especially in **healthcare**.
 

@@ -14,8 +14,7 @@
 
 ### Hey! I'm **N. Semini Yashodya Rathnayaka** 👋
 
-I'm a student and aspiring **Healthcare AI Builder from Sri Lanka**, passionate about building technology that is not only intelligent — but also useful, accessible, and meaningful.
-
+I'm a student and aspiring **Healthcare AI Builder from Sri Lanka**, passionate about building technology that is not only intelligent . but also useful, accessible, and meaningful.
 I love exploring the space where technology meets people, especially through:
 
 > **Artificial Intelligence • Computer Vision • Software Development • Human-Centered Design**
@@ -26,21 +25,16 @@ I love exploring the space where technology meets people, especially through:
 >
 > ## **I build it because it can make a difference.**
 
+
 I'm especially interested in creating technology that is:
 
 <div align="center">
-
 ## ♧ Accessible   •   ♧ Human-Centered   •   ♧ Intelligent   •   ♧ Practical
-
 </div>
 
-My goal is to explore how **Artificial Intelligence can solve real-world problems**, make technology easier to understand, and create meaningful solutions — especially in **healthcare**.
+My goal is to explore how **Artificial Intelligence can solve real world problems**, make technology easier to understand, and create meaningful solutions.  especially in **healthcare**.
 
-### 🚀 **Curiosity and consistency fuel me every single day.**
-
-And honestly...
-
-# **I'm just getting started.**
+##  **Curiosity and consistency fuel me every single day.**
 
 ---
 
@@ -140,7 +134,7 @@ And honestly...
 
 <div align="center">
 
-# 📊 GITHUB ANALYTICS
+#  GITHUB ANALYTICS
 
 <br>
 
@@ -181,7 +175,7 @@ And honestly...
 
 <div align="center">
 
-# 🤝 CONNECT WITH ME
+#  CONNECT WITH ME
 
 <br>
 
@@ -202,9 +196,7 @@ And honestly...
 # 🚀 LET'S BUILD SOMETHING THAT MATTERS.
 
 ### I'm always open to collaborating on projects that create real-world impact.
-
 ## **Ideas become powerful when we build them.**
-
 ### **Let's build something amazing. 👋🚀**
 
 <br>

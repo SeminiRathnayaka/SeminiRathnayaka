@@ -116,7 +116,7 @@ My goal is to explore how **Artificial Intelligence can solve real-world problem
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SeminiRathnayaka/SeminiRathnayaka/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="850"/>
+<img src="https://raw.githubusercontent.com/SeminiRathnayaka/SeminiRathnayaka/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="850"/>
 
 </div>
 

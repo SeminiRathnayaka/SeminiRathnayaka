@@ -117,6 +117,8 @@ My goal is to explore how **Artificial Intelligence can solve real-world problem
 
 <img src="https://komarev.com/ghpvc/?username=SeminiRathnayaka&label=PROFILE%20VIEWS&color=000000&style=for-the-badge" alt="Profile Views"/>
 
+
+
 <img src="https://raw.githubusercontent.com/SeminiRathnayaka/SeminiRathnayaka/main/stalk.jpg.jpeg" alt="Semini Rathnayaka" width="220"/>
 
 </div>

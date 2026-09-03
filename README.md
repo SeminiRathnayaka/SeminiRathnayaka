@@ -13,27 +13,26 @@
 
 </div>
 
-### Hey! I'm **N. Semini Yashodya Rathnayaka** 👋
+I'm N.Semini Yashodya Rathnayaka. A healthcare AI builder from Sri Lanka , currently in my first year of studying Health Information & Technology.
 
-I'm a student and aspiring **Healthcare AI Builder from Sri Lanka**, passionate about building technology that is not only intelligent, but also useful, accessible, and meaningful.
+I build at the intersection of AI, computer vision, and human-centered design. Not because it's trending but 
+because I've seen what happens when technology doesn't reach the people who need it most.
 
-I love exploring the space where technology meets people, especially through:
+Every project I build has a real purpose behind it.
+And I'm just getting started.
 
-> **Artificial Intelligence • Computer Vision • Software Development • Human-Centered Design**
+I believe technology should serve everyone.not just those who are already comfortable.
 
-### 💭 My Philosophy
+---
 
-> ## **I don't build technology just because I can.**
->
-> ## **I build it because it can make a difference.**
+##  What Drives Me
 
-I'm especially interested in creating technology that is:
+> *"I build technology for the people normal technology forgets."*
+>  N.S. Yashodya Rathnayaka
 
-<div align="center">
+Every project I build has a real human behind it. For everyone , for us , for you!
 
-## ♧ Accessible • ♧ Human-Centered • ♧ Intelligent • ♧ Practical
-
-</div>
+---
 
 My goal is to explore how **Artificial Intelligence can solve real-world problems**, make technology easier to understand, and create meaningful solutions — especially in **healthcare**.
 

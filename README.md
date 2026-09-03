@@ -34,13 +34,11 @@ I'm especially interested in creating technology that is:
 
 My goal is to explore how **Artificial Intelligence can solve real world problems**, make technology easier to understand, and create meaningful solutions.  especially in **healthcare**.
 
-##  **Curiosity and consistency fuel me every single day.**
-
 ---
 
 <div align="center">
 
-# 💻 PROGRAMMING
+## 💻 PROGRAMMING
 
 <br>
 
@@ -61,7 +59,7 @@ My goal is to explore how **Artificial Intelligence can solve real world problem
 
 <div align="center">
 
-# 🌐 WEB & APP DEVELOPMENT
+## 🌐 WEB & APP DEVELOPMENT
 
 <br>
 
@@ -81,7 +79,7 @@ My goal is to explore how **Artificial Intelligence can solve real world problem
 
 <div align="center">
 
-# 🤖 AI, COMPUTER VISION & DATA
+## 🤖 AI, COMPUTER VISION & DATA
 
 <br>
 
@@ -95,7 +93,7 @@ My goal is to explore how **Artificial Intelligence can solve real world problem
 
 <div align="center">
 
-# 🗄️ DATABASES
+## 🗄️ DATABASES
 
 <br>
 
@@ -113,7 +111,7 @@ My goal is to explore how **Artificial Intelligence can solve real world problem
 
 <div align="center">
 
-# 🛠️ TOOLS & WORKSPACE
+## 🛠️ TOOLS & WORKSPACE
 
 <br>
 
@@ -135,12 +133,6 @@ My goal is to explore how **Artificial Intelligence can solve real world problem
 <div align="center">
 
 #  GITHUB ANALYTICS
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=SeminiRathnayaka&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=000000&ring_color=000000" alt="GitHub Stats" width="550"/>
-
-<br><br>
 
 <img src="https://streak-stats.demolab.com?user=SeminiRathnayaka&hide_border=true&background=FFFFFF&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&sideNums=000000&currStreakNum=000000" alt="GitHub Streak" width="550"/>
 

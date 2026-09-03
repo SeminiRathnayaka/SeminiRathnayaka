@@ -2,7 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/SeminiRathnayaka/SeminiRathnayaka/main/header%201011.jpeg" alt="Semini Rathnayaka" width="850"/>
 
-<br><br>
 
 # HOLA WORLD!! 👋
 
@@ -22,7 +21,6 @@ I love exploring the space where technology meets people, especially through:
 ### 💭 My Philosophy
 
 > ## **I don't build technology just because I can.**
->
 > ## **I build it because it can make a difference.**
 
 
@@ -47,7 +45,6 @@ My goal is to explore how **Artificial Intelligence can solve real world problem
 <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" height="50"/>
 <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=white" height="50"/>
 
-<br><br>
 
 <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white" height="42"/>
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" height="42"/>
@@ -55,7 +52,6 @@ My goal is to explore how **Artificial Intelligence can solve real world problem
 
 </div>
 
----
 
 <div align="center">
 
@@ -67,7 +63,6 @@ My goal is to explore how **Artificial Intelligence can solve real world problem
 <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white" height="42"/>
 <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" height="42"/>
 
-<br><br>
 
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="42"/>
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" height="42"/>
@@ -75,7 +70,7 @@ My goal is to explore how **Artificial Intelligence can solve real world problem
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -100,14 +95,13 @@ My goal is to explore how **Artificial Intelligence can solve real world problem
 <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" height="42"/>
 <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" height="42"/>
 
-<br><br>
 
 <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" height="42"/>
 <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white" height="42"/>
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -119,7 +113,6 @@ My goal is to explore how **Artificial Intelligence can solve real world problem
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="42"/>
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" height="42"/>
 
-<br><br>
 
 <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" height="42"/>
 <img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=white" height="42"/>

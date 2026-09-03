@@ -150,19 +150,15 @@ My goal is to explore how **Artificial Intelligence can solve real world problem
 
 <img src="https://komarev.com/ghpvc/?username=SeminiRathnayaka&label=PROFILE%20VIEWS&color=000000&style=for-the-badge" alt="Profile Views"/>
 
-<br><br>
 
 <img src="https://raw.githubusercontent.com/SeminiRathnayaka/SeminiRathnayaka/main/stalk.jpg.jpeg" alt="Semini Rathnayaka" width="220"/>
 
 </div>
 
----
 
 <div align="center">
 
 #  CONNECT WITH ME
-
-<br>
 
 <a href="https://www.instagram.com/nsy_rathnayaka_/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" height="42"/>
@@ -176,8 +172,6 @@ My goal is to explore how **Artificial Intelligence can solve real world problem
 <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" height="42"/>
 </a>
 
-<br><br><br>
-
 # 🚀 LET'S BUILD SOMETHING THAT MATTERS.
 
 ### I'm always open to collaborating on projects that create real-world impact.
@@ -185,5 +179,10 @@ My goal is to explore how **Artificial Intelligence can solve real world problem
 ### **Let's build something amazing. 👋🚀**
 
 <br>
+
+</div>
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=D4A017&height=120&section=footer)
 
 </div>
